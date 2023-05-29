@@ -14,6 +14,8 @@ Before running the application, make sure you have the following software instal
 
 Follow the steps below to set up and run the application on your local machine.
 
+The frontend application is in phvdashboard folder and the backend application is in Server folder.
+
 ### Backend Setup
 
 1. Clone the repository:
