@@ -180,7 +180,7 @@ def calculate_multiple_metrics(asset_symbols, date):
     return results
 
 
-@app.route('/metrics', methods=['GET','POST'])
+@app.route('/metrics', methods=['POST'])
 # @app.route('/metrics')
 # def get_time():
 #     date = x
