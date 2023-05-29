@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "datatables.net": "^1.13.4",
+    "datatables.net-dt": "^1.13.4",
+    "jquery": "^3.7.0",
+    "react-bootstrap": "^2.7.4",
+    "react-datepicker": "^4.12.0"
+  }
+}
