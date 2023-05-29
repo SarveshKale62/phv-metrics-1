@@ -64,7 +64,7 @@ function Reactdatepicker()
 
     useEffect(() => {
       calculateMetrics(date);
-    }, []);
+    }, [date]);
 
     return( 
        <>
