@@ -14,21 +14,6 @@ function Reactdatepicker()
     const [errorMessage, setErrorMessage] = useState("");
 
     console.log("hi");
-
-    // useEffect(() => {
-    //   console.log("hi1");
-    //   fetch('/metrics',{
-    //   headers : { 
-    //     'Content-Type': 'application/json',
-    //     'Accept': 'application/json'
-    //   }
-    //    }).then((response) => 
-    //   response.json()).then(data => {
-    //     console.log("hi2");
-    //     setMetrics(data);
-    //     console.log("hi3");
-    //   })
-    // },[]);
       
     console.log(metrics);
     console.log(metrics[0]);
