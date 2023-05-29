@@ -41,7 +41,7 @@ function Reactdatepicker()
       headers: {
         'Content-Type': 'application/json'
       },
-     body: JSON.stri ngify({ date: selectedDate })
+      body: JSON.stringify({ date: selectedDate })
     })
       .then(response => response.json())
       .then(data => {
