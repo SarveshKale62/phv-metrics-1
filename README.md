@@ -83,4 +83,5 @@ To Run the Application locally first start the server and then the React Fronten
 Here is the screenshot of the Application.
 
 
-![Screenshot 2023-05-29 171715](https://github.com/SarveshKale62/phv-metrics/assets/100509748/a54fc1dd-e01f-45d6-a88d-68601dbdd625)
+![PHV-Metrics](https://github.com/user-attachments/assets/347aebb8-ee4a-4a4f-9fb8-fd91aa185517)
+
